@@ -131,6 +131,7 @@ html {
     gap: 1rem;
     justify-items: center;
     align-items: center;
+    radius: 50px;
 }
 
 .main__img--item {
@@ -139,7 +140,6 @@ html {
     align-self: center;
     height: 20rem;
     width: 20rem;
-    radius: 50px;
 }
 
 #main__content {
